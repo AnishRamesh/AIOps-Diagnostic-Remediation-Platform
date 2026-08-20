@@ -1,0 +1,6 @@
+{
+  "name": "AIOps Diagnostic & Remediation Platform",
+  "description": "AI-Driven Software Diagnostic & Auto-Remediation System featuring log ingestion, RAG vector retrieval, local LLM diagnosis, safe auto-remediation, and MTTR analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
